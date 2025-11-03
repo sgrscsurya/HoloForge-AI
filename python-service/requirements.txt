@@ -1,0 +1,9 @@
+fastapi==0.116.0
+uvicorn==0.23.2
+torch==2.4.1
+torchvision==0.19.1
+timm==1.0.9
+opencv-python==4.10.0.84
+pillow==10.0.0
+numpy==1.25.2
+trimesh==3.23.5
