@@ -7,3 +7,4 @@ opencv-python==4.10.0.84
 pillow==10.0.0
 numpy==1.25.2
 trimesh==3.23.5
+python-multipart==0.0.20
